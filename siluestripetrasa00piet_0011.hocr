@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./siluestripetrasa00piet_0011.png"; bbox 0 0 2201 3011; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 1792 295 1875 380">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 1792 295 1875 380">
+     <span class='ocr_line' id='line_1_1' title="bbox 1792 295 1875 380; baseline -0.024 -24"><span class='ocrx_word' id='word_1_1' title='bbox 1792 295 1875 380; x_wconf 87' lang='lat' dir='ltr'>iiij</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 371 1065 1650 1294">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 371 1065 1650 1294">
+     <span class='ocr_line' id='line_1_2' title="bbox 371 1065 1650 1196; baseline 0.001 -38"><span class='ocrx_word' id='word_1_2' title='bbox 371 1067 867 1196; x_wconf 83' lang='lat' dir='ltr'>Sequuntur</span> <span class='ocrx_word' id='word_1_3' title='bbox 890 1067 1204 1187; x_wconf 84' lang='lat' dir='ltr'>prioris</span> <span class='ocrx_word' id='word_1_4' title='bbox 1237 1065 1650 1176; x_wconf 84' lang='lat' dir='ltr'>editionis-</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 495 1197 1527 1294; baseline -0.003 -3"><span class='ocrx_word' id='word_1_5' title='bbox 495 1199 954 1294; x_wconf 84' lang='lat' dir='ltr'>Dedicatio</span> <span class='ocrx_word' id='word_1_6' title='bbox 983 1202 1074 1291; x_wconf 68' lang='grc' dir='ltr'>ὃ(</span> <span class='ocrx_word' id='word_1_7' title='bbox 1102 1197 1527 1293; x_wconf 73' lang='lat' dir='ltr'>Praefatio.</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 1627 2304 1878 2376">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 1627 2304 1878 2376">
+     <span class='ocr_line' id='line_1_4' title="bbox 1627 2304 1878 2376; baseline 0.024 -6"><span class='ocrx_word' id='word_1_8' title='bbox 1627 2304 1878 2376; x_wconf 84' lang='lat' dir='ltr'>ILLV-</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>

@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./siluestripetrasa00piet_0006.png"; bbox 0 0 2201 3011; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 275 695 1962 957">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 275 695 1962 957">
+     <span class='ocr_line' id='line_1_1' title="bbox 396 695 1832 775; baseline -0.005 -11"><span class='ocrx_word' id='word_1_1' title='bbox 396 702 761 764; x_wconf 85' lang='lat' dir='ltr'>TANTO</span> <span class='ocrx_word' id='word_1_2' title='bbox 801 700 1309 763; x_wconf 82' lang='lat' dir='ltr'>NOBlLloR</span> <span class='ocrx_word' id='word_1_3' title='bbox 1349 695 1832 775; x_wconf 78' lang='lat' dir='ltr'><strong>QvlstE,</strong></span> 
+     </span>
+     <span class='ocr_line' id='line_1_2' title="bbox 275 868 1962 957; baseline -0.004 -20"><span class='ocrx_word' id='word_1_4' title='bbox 275 874 716 957; x_wconf 75' lang='lat' dir='ltr'>QANTO</span> <span class='ocrx_word' id='word_1_5' title='bbox 754 872 1496 948; x_wconf 81' lang='lat' dir='ltr'>PROP1NQV10R</span> <span class='ocrx_word' id='word_1_6' title='bbox 1525 872 1732 937; x_wconf 85' lang='lat' dir='ltr'>DEO</span> <span class='ocrx_word' id='word_1_7' title='bbox 1773 868 1962 935; x_wconf 85' lang='lat' dir='ltr'><strong>EST.</strong></span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 299 1076 1942 1317">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 299 1076 1942 1317">
+     <span class='ocr_line' id='line_1_3' title="bbox 1047 1076 1192 1137; baseline 0 0"><span class='ocrx_word' id='word_1_8' title='bbox 1047 1076 1192 1137; x_wconf 89' lang='lat' dir='ltr'>AT</span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 299 1235 1942 1317; baseline -0.002 -14"><span class='ocrx_word' id='word_1_9' title='bbox 299 1238 616 1303; x_wconf 85' lang='lat' dir='ltr'>OMNIS</span> <span class='ocrx_word' id='word_1_10' title='bbox 665 1236 768 1300; x_wconf 92' lang='lat' dir='ltr'>IN</span> <span class='ocrx_word' id='word_1_11' title='bbox 814 1235 1121 1302; x_wconf 86' lang='lat' dir='ltr'>ILLVM</span> <span class='ocrx_word' id='word_1_12' title='bbox 1169 1235 1942 1317; x_wconf 73' lang='lat' dir='ltr'>PROPINQViTAS</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 404 1413 1848 1833">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 404 1413 1848 1833">
+     <span class='ocr_line' id='line_1_5' title="bbox 404 1413 1848 1498; baseline 0.001 -20"><span class='ocrx_word' id='word_1_13' title='bbox 404 1416 531 1479; x_wconf 83' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_14' title='bbox 583 1413 1210 1479; x_wconf 81' lang='lat' dir='ltr'>VlclNlTATE</span> <span class='ocrx_word' id='word_1_15' title='bbox 1263 1414 1848 1498; x_wconf 82' lang='lat' dir='ltr'>VIRTVTVM,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 555 1590 1696 1673; baseline 0.005 -21"><span class='ocrx_word' id='word_1_16' title='bbox 555 1590 686 1655; x_wconf 84' lang='lat' dir='ltr'>DE</span> <span class='ocrx_word' id='word_1_17' title='bbox 748 1590 1320 1658; x_wconf 84' lang='lat' dir='ltr'>V1T10RVM</span> <span class='ocrx_word' id='word_1_18' title='bbox 1385 1592 1696 1673; x_wconf 76' lang='lat' dir='ltr'>FVGA,</span> 
+     </span>
+     <span class='ocr_line' id='line_1_7' title="bbox 800 1765 1443 1833; baseline -0.003 -3"><span class='ocrx_word' id='word_1_19' title='bbox 800 1765 1443 1833; x_wconf 78' lang='lat' dir='ltr'>STATVENDA‚</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
